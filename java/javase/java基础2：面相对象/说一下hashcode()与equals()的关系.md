@@ -1,0 +1,1 @@
+解答方向：hashcode（）方法，其在散列集合中的应用，讲一下在hashmap中的equals方法
